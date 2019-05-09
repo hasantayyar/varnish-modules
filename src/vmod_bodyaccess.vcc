@@ -110,3 +110,5 @@ Example
 
                 | std.cache_req_body(1KB);
 	        | bodyaccess.log_req_body("PREFIX:", 3);
+
+$Function STRING req_body()
